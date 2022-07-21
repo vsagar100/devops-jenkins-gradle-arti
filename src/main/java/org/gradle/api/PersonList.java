@@ -23,5 +23,6 @@ public class PersonList {
 
     public void doSomething() {
         date = new Date();
+        /* Added comment line */
     }
 }
